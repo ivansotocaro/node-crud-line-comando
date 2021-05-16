@@ -1,0 +1,5 @@
+[
+  { "descripcion": "pasear al perro", "completado": false },
+  { "descripcion": "Estudiando node", "completado": "true" },
+  { "descripcion": "termine el proyecto", "completado": false }
+]
